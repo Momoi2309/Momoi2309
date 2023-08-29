@@ -9,10 +9,10 @@
 ### <div align="center">Graphic designer, passionate photographer and software developer 👾</div>  
   
 
-- 🔎I’m currently working on Augmented Reality App  
+- 🔎I've finished an Augmented Reality App used for virtual try-on of different accessories
   
 
--  🧠I’m currently learning Unity and 3D Modelling  
+-  🧠I’m currently learning Unity, AR and 3D Modelling  
   
 
 - ❤️ My first choice language is Python  
