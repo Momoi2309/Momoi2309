@@ -10,10 +10,11 @@
   
 
 - 🔎I've finished an Augmented Reality App used for virtual try-on of different accessories
+- 🔎Current project: Horror game made in Unity
   
 
--  🧠I’m currently learning Unity, AR and 3D Modelling  
-  
+-  🧠I’m currently learning Unity, AR & VR and 3D Modelling. 
+
 
 - ❤️ My first choice language is Python  
   
